@@ -1,6 +1,6 @@
 {
     "appHeader": {
-        "brand": "Hoi Dan IT",
+        "brand": "Nguyen Thanh Dat",
         "home": "Home",
         "project": "Project",
         "contact": "Contact",
@@ -17,7 +17,8 @@
         "heading2": "I am fluent in classics like",
         "heading3": "My field of Interest's are building new",
         "heading4": "Web Technologies and Products",
-        "heading5": "Whenever possible, I also apply my passion for developing products with"
+        "heading5": "Whenever possible, I also apply my passion for developing products with",
+        "heading6": "I am also passionate about mobile application programming and I will learn it in the near future"
     },
     "experience": {
         "title": "Experiences"

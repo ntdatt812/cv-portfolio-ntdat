@@ -1,10 +1,10 @@
 {
     "appHeader": {
-        "brand": "Hỏi Dân IT",
+        "brand": "Nguyễn Thành Đạt",
         "home": "Trang chủ",
         "project": "Dự án",
         "contact": "Liên hệ",
-        "about": "Về tác giả"
+        "about": "Về tôi"
     },
     "heroSection": {
         "exp": "Kinh nghiệm",
@@ -17,7 +17,8 @@
         "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
         "heading3": "Lĩnh vực quan tâm của tôi là",
         "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
-        "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+        "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với",
+        "heading6": "Tôi cũng đam mê lập trình ứng dụng di động và tôi sẽ học nó trong thời gian tới"
     },
     "experience": {
         "title": "Kinh nghiệm làm việc"

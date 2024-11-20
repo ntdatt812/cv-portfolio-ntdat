@@ -21,7 +21,7 @@ const HeroRight = () => {
                     <div>
                         <span className="ms-4 me-2">name:</span>
                         <span className='text-yellow-500'>
-                            {`'`}Hỏi Dân IT{`',`}
+                            {`'`}Nguyễn Thành Đạt{`',`}
                         </span>
                     </div>
                     <div className="ms-4 me-2 text-pink-200">
@@ -33,8 +33,8 @@ const HeroRight = () => {
                         <span>{"', '"}</span>
                         <span >NextJS</span>
                         <span>{"', '"}</span>
-                        <span >Java Spring</span>
-                        <span>{"', '"}</span>
+                        {/* <span >Java Spring</span>
+                        <span>{"', '"}</span> */}
                         <span >NestJS</span>
                         <span>{"', '"}</span>
                         <span >NoSQL</span>
@@ -42,8 +42,8 @@ const HeroRight = () => {
                         <span >SQL</span>
                         <span>{"', '"}</span>
                         <span >Docker</span>
-                        <span>{"', '"}</span>
-                        <span >K8S</span>
+                        {/* <span>{"', '"}</span>
+                        <span >K8S</span> */}
                         <span>{"'],"}</span>
                     </div>
                     <div>

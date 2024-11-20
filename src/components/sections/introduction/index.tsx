@@ -1,6 +1,6 @@
 import { Col, Row } from 'react-bootstrap';
 import Tilt from "react-parallax-tilt";
-import avatarImg from "../../../assets/avatar.svg";
+import avatarImg from "assets/avatar.svg";
 import './introduction.scss';
 import { useTranslation } from 'react-i18next';
 
@@ -27,7 +27,7 @@ const Introduction = () => {
                         <br />
                         <br />{t("introSection.heading2")}
                         <i>
-                            <b className='text-pink-100'> Java {t("introSection.and")} Javascript. </b>
+                            <b className='text-pink-100'> {/*Java {t("introSection.and")}*/}  Javascript. </b>
                         </i>
                         <br />
                         <br />
@@ -40,15 +40,17 @@ const Introduction = () => {
                         <br />
                         <br />
                         {t("introSection.heading5")}
-                        <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
-                        {t("introSection.and")}
+                        {/* <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
+                        {t("introSection.and")} */}
                         <i>
                             <b className='text-pink-100'>
                                 {" "}
                                 Node.js
                             </b>
                         </i>
-
+                        <br />
+                        <br />
+                        {t("introSection.heading6")}
                     </p>
                 </Col>
                 <Col md={3} className='d-md-block d-none'>
